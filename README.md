@@ -1,4 +1,4 @@
-# Anchor.js
+# Anchor-JS
 
 *By [Adrii](https://github.com/AdrianVillamayor)*
 
