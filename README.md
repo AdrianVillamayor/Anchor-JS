@@ -1,4 +1,5 @@
 # Anchor-JS
+[![](https://data.jsdelivr.com/v1/package/gh/AdrianVillamayor/Anchor-JS/badge)](https://www.jsdelivr.com/package/gh/AdrianVillamayor/Anchor-JS)
 
 *By [Adrii](https://github.com/AdrianVillamayor)*
 
